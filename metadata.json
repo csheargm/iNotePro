@@ -1,0 +1,7 @@
+{
+  "name": "iNote Pro",
+  "description": "A high-fidelity iOS Notes clone with Apple Pencil support, canvas annotations, and Gemini-powered smart features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
